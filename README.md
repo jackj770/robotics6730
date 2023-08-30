@@ -1,1 +1,4 @@
-This is the repo for Jack Fernald
+Weber State University - Robotics 6730
+
+Jack Fernald
+Class assignments
